@@ -18,3 +18,5 @@
 2. #### Hvordan man tar bra bilder.
 3. #### Hvordan man programmere.
 4. #### Hvordan man lager nettsider og Apper.
+
+ #### https://www.gjennestadvgs.no

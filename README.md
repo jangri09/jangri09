@@ -8,9 +8,9 @@
 
 - ## Interesser
 
-     1. #### Trommer
-     2. #### Friluftsliv
-     3. #### Design
+     - #### Trommer
+     - #### Friluftsliv
+     - #### Design
 
 
 - ### Hvorfor IM
@@ -18,10 +18,10 @@
 
 
 - ### Dette skoleåret håper jeg å lære 
-    1. #### Hvordan man kan forbedre den kreative prossesen.
-    2. #### Hvordan man tar bra bilder.
-    3. #### Hvordan man programmere.
-    4. #### Hvordan man lager nettsider og Apper.
+    - #### Hvordan man kan forbedre den kreative prossesen.
+    - #### Hvordan man tar bra bilder.
+    - #### Hvordan man programmere.
+    - #### Hvordan man lager nettsider og Apper.
 
 
  ##### https://www.gjennestadvgs.no
